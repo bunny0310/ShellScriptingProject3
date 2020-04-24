@@ -27,7 +27,7 @@ then
 	exit 1
 fi
 
-#Displays the result
+#Displays the results
 echo "Username: ${USERNAME}"
 echo
 echo "Password: ${PASSWORD}"
